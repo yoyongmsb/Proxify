@@ -553,6 +553,7 @@ https://t.me/proxy?server=185.130.115.156&port=443&secret=dd6b3fb02424dbac55fef2
 https://t.me/proxy?server=185.143.233.120&port=2086&secret=e9e437c2-1ee5-4f0d-ae09-4bfafc835e47
 https://t.me/proxy?server=185.143.233.98&port=2086&secret=e9e437c2-1ee5-4f0d-ae09-4bfafc835e47
 https://t.me/proxy?server=185.143.72.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=185.157.212.84&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=185.157.214.109&port=443&secret=ee07df7df7df7dfffffdfffffffffffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d
 https://t.me/proxy?server=185.173.37.139&port=443&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=
 https://t.me/proxy?server=185.182.82.32&port=443&secret=eeb0940190df901370bac3296f2bd317dd7661727a657368332e636f6d
