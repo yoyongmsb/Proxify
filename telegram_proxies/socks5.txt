@@ -1,6 +1,7 @@
+https://t.me/proxy?server=82.200.235.134&port=19170
 https://t.me/proxy?server=103.151.74.5&port=2025
-https://t.me/proxy?server=103.189.218.158&port=1080
 https://t.me/proxy?server=203.189.153.168&port=1080
+https://t.me/proxy?server=103.189.218.158&port=1080
 https://t.me/proxy?server=67.210.146.50&port=11080
 https://t.me/proxy?server=103.35.188.243&port=3128
 https://t.me/proxy?server=88.216.68.24&port=9100
@@ -30,9 +31,9 @@ https://t.me/proxy?server=103.136.107.70&port=1080
 https://t.me/proxy?server=103.118.85.144&port=1080
 https://t.me/proxy?server=212.237.125.216&port=6969
 https://t.me/proxy?server=5.255.117.127&port=1080
-https://t.me/proxy?server=202.62.34.102&port=1080
-https://t.me/proxy?server=152.70.236.84&port=1080
 https://t.me/proxy?server=157.120.34.237&port=3128
+https://t.me/proxy?server=152.70.236.84&port=1080
+https://t.me/proxy?server=202.62.34.102&port=1080
 https://t.me/proxy?server=203.189.135.105&port=1080
 https://t.me/proxy?server=134.199.159.23&port=1080
 https://t.me/proxy?server=37.157.217.144&port=10810
